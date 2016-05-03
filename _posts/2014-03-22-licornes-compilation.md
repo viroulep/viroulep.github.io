@@ -17,7 +17,7 @@ permalink: licorne-compilation
 La compilation est l'action de traduire un fichier source (du texte) en langage machine, elle peut inclure implicitement une édition de liens afin de générer un programme exécutable.
 </p>
 
-<p class="text-center"><img alt="compilation" src="/resources/compilation.png"/></p>
+<p class="text-center"><img alt="compilation" src="/resources/uploads/compilation.png"/></p>
 <p>
 Lorsque l'on a plusieurs fichiers source, il est courant de compiler individuellement chaque fichier source (.cpp) en un fichier objet (.o), puis de faire une étape séparée d'édition de liens afin de générer l'exécutable (MyUnicorn).
 </p>

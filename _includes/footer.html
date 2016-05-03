@@ -1,43 +1,20 @@
-<footer class="footer navbar-fixed-bottom">
+<a href="#" class="cd-top">Top</a>
+
+{% capture icon-github %}{% include icon-github.svg %}{% endcapture %}
+{% capture icon-rss %}{% include icon-rss.svg %}{% endcapture %}
+
+<footer class="footer navbar-fixed-bottom navbar-default">
   <div class="container">
-    <p class="text-muted">Place sticky footer content here.</p>
+    <p class="text-muted">
+    &copy;{{ site.time | date: '%Y' }} Philippe Virouleau
+    | <a href="https://github.com/viroulep" class="icon" target="_blank">{{ icon-github | strip_newlines }}</a>
+    | <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="icon">{{ icon-rss | strip_newlines }}</a>
+    | <a href="/about#contact">Contact<a/>
+    </p>
   </div>
 </footer>
-<!--<footer class="site-footer">-->
 
-  <!--<div class="wrapper">-->
 
-    <!--<h2 class="footer-heading">{{ site.title }}</h2>-->
-
-    <!--<div class="footer-col-wrapper">-->
-      <!--<div class="footer-col footer-col-1">-->
-        <!--<ul class="contact-list">-->
-          <!--<li>{{ site.title }}</li>-->
-          <!--<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>-->
-        <!--</ul>-->
-      <!--</div>-->
-
-      <!--<div class="footer-col footer-col-2">-->
-        <!--<ul class="social-media-list">-->
-          <!--{% if site.github_username %}-->
-          <!--<li>-->
-            <!--{% include icon-github.html username=site.github_username %}-->
-          <!--</li>-->
-          <!--{% endif %}-->
-
-          <!--{% if site.twitter_username %}-->
-          <!--<li>-->
-            <!--{% include icon-twitter.html username=site.twitter_username %}-->
-          <!--</li>-->
-          <!--{% endif %}-->
-        <!--</ul>-->
-      <!--</div>-->
-
-      <!--<div class="footer-col footer-col-3">-->
-        <!--<p>{{ site.description }}</p>-->
-      <!--</div>-->
-    <!--</div>-->
-
-  <!--</div>-->
-
-<!--</footer>-->
+<script src="{{site.baseurl}}/js/jquery-1.12.3.min.js"></script>
+<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+<script src="{{site.baseurl}}/js/main.js"></script>

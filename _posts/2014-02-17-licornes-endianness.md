@@ -21,7 +21,7 @@ permalink: licorne-endianness
 Ce qui donne, en image :
 </p>
 <p class="text-center">
-<img alt="endianess" src="http://www.philippevirouleau.fr/wp-content/uploads/2014/02/endianess-450x1024.png" />
+<img alt="endianess" src="/resources/uploads/endianess.png" />
 </p>
 <p>
 Idée honteusement copiée de <a href="http://geekandpoke.typepad.com/geekandpoke/2011/09/simply-explained-1.html" target="_blank">Geek and poke</a>, l'image de licorne a été trouvée <a href="http://aviluff.deviantart.com/art/Vector-Unicorn-200925629" target="_blank">ici sur deviantart</a>.

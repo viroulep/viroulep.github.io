@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% assign posts = site.posts | where: "section", page.section %}
+<article class="post">
+
+  <header class="post-header well">
+    <h1 class="post-title">{% if page.title %}{{ page.title }}{% else %}{{page.subtitle}}{% endif %}</h1>
+    {{ content }}
+  </header>
+
+  <div class="post-content">
+    <ul class="post-list list-unstyled">
+      {% for post in posts %}
+      <li class="well">
+
+        <i class="flag {{ post.locale | default: "xe" }}"></i><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <br/><span class="post-meta">Posted on {{ post.date | date: "%b %-d, %Y" }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+
+</article>

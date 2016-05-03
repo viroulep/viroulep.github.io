@@ -18,12 +18,12 @@ baseurl: ''
 github_username: 'viroulep'
 
 
-paginate: 3
+#paginate: 3
 
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-gems: ['jekyll-paginate']
+#gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']

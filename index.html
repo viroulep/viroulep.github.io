@@ -1,23 +1,39 @@
 ---
-layout: default
+layout: page
+section: home
+subtitle: Home
 ---
 
-<div class="home">
+<div class="well">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1><i class="flag en"></i>Home</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p>
+  Welcome on my website/blog, if you want to learn more about me please go to the <a href="/about">about</a> page. You will also find here some articles about my works and hobbies, which may or may not be useful.
+  </p>
+  <p>
+  Right now all my posts are either <a href="/cubing">cubing-related</a>, or <a href="/computerscience">computer-science</a> related, so feel free to go there depending on what you want to read.
+  If some articles would not fit in one of these categories, they would appear below.
+  </p>
+  <p>
+  Some posts may be available only in French, just look at the flag in front of the title to know if it's worth to go there ;)
+  </p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+</div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="well">
+
+  <h1><i class="flag fr"></i>Accueil</h1>
+
+  <p>
+  Bienvenue sur mon site/blog, si vous souhaitez en savoir plus sur moi vous pouvez visiter <a href="/about">cette page</a> (en anglais, vous pouvez également télécharger mon <a href="/resources/uploads/Virouleau_Philippe_CV.pdf" target="_blank">CV</a> en français). Vous trouverez aussi quelques articles sur mes travaux et loisirs qui pourront, ou pas, être utiles.
+  </p>
+  <p>
+  À ce jour tous mes posts sont soit en rapport avec le <a href="/cubing">Rubik's cube</a>, soit en rapport avec <a href="/computerscience">l'informatique</a>, vous pouvez donc visiter l'une ou l'autre des pages en fonction de ce que vous avez envie de lire.
+  Si à l'avenir certains posts ne rentreraient pas dans l'une de ces catégories, ils s'afficheraient ci dessous.
+  </p>
+  <p>
+  Le contenu du site est principalement rédigé en anglais, néanmoins la majorité des posts dispose d'une version française : il suffit de regarder le drapeau à côté du titre pour savoir dans quelle langue il est rédigé.
+  </p>
 
 </div>
