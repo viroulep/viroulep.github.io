@@ -28,4 +28,4 @@ kramdown:
   syntax_highlighter: rouge
 #gems: ['jekyll-paginate']
 
-exclude: ['README.md', 'LICENSE']
+exclude: ['README.md', 'LICENSE', 'Session.vim']
