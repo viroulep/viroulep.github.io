@@ -8,8 +8,10 @@ locale: fr
 section: computerscience
 permalink: configurations
 ---
-<p>
-Ce post est un condensé des logiciels et configurations que j'utilise, si vous voulez vous séparer de votre souris, vous êtes au bon endroit !</p>
+
+Ce post est un condensé des logiciels et configurations que j'utilise, si vous voulez vous séparer de votre souris, vous êtes au bon endroit !
+
+
 {{post_excerpt}}
 
 <p>Parmis les questions que l'on me pose et que je pose régulièrement, il y a tout ce qui touche à l'environnement de travail : à savoir quel logiciel utiliser pour quelle tache, et quelle configuration pour ce logiciel.<br />

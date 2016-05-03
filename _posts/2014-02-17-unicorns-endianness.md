@@ -18,6 +18,8 @@ permalink: unicorn-endianness
 </ul>
 </p>
 
+<!--more-->
+
 <p>And with a picture :</p>
 
 <p class="text-center">

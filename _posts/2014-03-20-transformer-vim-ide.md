@@ -10,7 +10,6 @@ section: computerscience
 permalink: vim-ide
 ---
 
-<h2><a id="intro">Introduction</a></h2>
 
 
 Utilisant Vim au quotidien, j'ai eu l'occasion d'essayer et rassembler un certains nombre de configurations et de plugins différents. Une grosse partie de la base que j'ai utilisée vient de <a target="_blank" href="https://github.com/amix/vimrc">The Ultimate vimrc</a>, mais j'ai fini par faire un grand nettoyage car beaucoup des plugins et fonctionnalités activés m'était superflues.
@@ -19,6 +18,7 @@ Utilisant Vim au quotidien, j'ai eu l'occasion d'essayer et rassembler un certai
 Ce qui suit décrit donc une partie de ma configuration actuelle, avec les fonctionnalités importantes présentes de base, et les différents plugins que j'ai installé, avec leur configuration spécifique.<br />
 Le tout donnant un éditeur qui se rapproche fortement des plus gros IDE !
 
+<!--more-->
 
 Accès rapide :
 

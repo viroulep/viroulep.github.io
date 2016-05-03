@@ -11,12 +11,16 @@ section: computerscience
 permalink: licorne-endianness
 ---
 <h2>Endianness</h2>
+
 <p>L'Endianness est l'ordre dans lequel sont organisés les octets en mémoires, deux des représentations couramment utilisées sont les suivantes :
 <ul>
   <li>les (groupes de) bits de poids fort d'abord (Big Endian)</li>
   <li>les (groupes de) bits de poids faible d'abord (Little Endian)</li>
 </ul>
 </p>
+
+<!--more-->
+
 <p>
 Ce qui donne, en image :
 </p>

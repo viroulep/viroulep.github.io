@@ -17,6 +17,8 @@ baseurl: ''
 
 github_username: 'viroulep'
 
+excerpt_separator: <!--more-->
+
 
 #paginate: 3
 

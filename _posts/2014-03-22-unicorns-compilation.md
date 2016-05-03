@@ -16,6 +16,7 @@ permalink: unicorn-compilation
 <p>
 Compilation is the translation of a source code file to a binary file, it can implicitly contain a linking step in order to create an executable program.
 </p>
+<!--more-->
 <p class="text-center">
 <img src="/resources/uploads/compilation-en.png" alt="compilation-en" />
 </p>

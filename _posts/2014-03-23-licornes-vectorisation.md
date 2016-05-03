@@ -11,6 +11,7 @@ permalink: licorne-vectorisation
 
 <h2>La vectorisation</h2>
 <p>Vectoriser un programme consiste à transformer, automatiquement ou non, une opération s'appliquant sur une donnée (ici une licorne) en une opération s'appliquant sur un vecteur de données.</p>
+<!--more-->
 <p class="text-center"><img src="/resources/uploads/vectorisation-lowq.gif" alt="vectorisation-lowq"/></p>
 <p>
 <br />
