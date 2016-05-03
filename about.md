@@ -50,7 +50,7 @@ The best way to contact me is by mail : philippe (dot) virouleau (at) imag (dot)
 
 Speedcubing is the activity of solving the Rubik's cube (and other twisty puzzles) as fast as possible. I started cubing in 2008, and it has been my main hobby ever since !
 
-<!--Curious about what it looks like ? Checkout my youtube channel where I left some demo videos ;) !-->
+Luckily, my best official solve during a competition has been recorded, you can check it out [here](https://www.youtube.com/watch?v=KHaellMev1M){:target="_blank"} !
 
 ### Achievements
 
