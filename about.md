@@ -30,16 +30,10 @@ The best way to contact me is by mail : philippe (dot) virouleau (at) imag (dot)
 <div class="well" markdown="1">
 # Publications
 
-## 2014
+<div id="publications-hal">Loading publications from HAL...</div>
+<script src="{{site.baseurl}}/js/hal.js"></script>
+<script>load_from_hal("philippe-virouleau");</script>
 
-
-* [Evaluation of OpenMP Dependent Tasks with the KASTORS Benchmark Suite](https://hal.inria.fr/hal-01081974){:target="_blank"}
-
-  Philippe Virouleau, Pierrick Brunet, François Broquedis, Nathalie Furmento, Samuel Thibault, Olivier Aumage, Thierry Gautier<br/>
-  *10th International Workshop on OpenMP, IWOMP2014*, Sep 2014, Salvador, Brazil. Springer, 10th International Workshop on OpenMP, IWOMP2014, pp.16 &#8211; 29, 2014.<br/>
-  [<10.1007/978-3-319-11454-5_2>](http://dx.doi.org/10.1007/978-3-319-11454-5_2){:target="_blank"}<br/>
-  [![pdf][1]][2]{:target="_blank"}
-  [![Bibtex][3]][4]{:target="_blank"}
 
 </div>
 
