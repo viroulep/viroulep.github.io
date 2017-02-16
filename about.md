@@ -32,8 +32,7 @@ The best way to contact me is by mail : philippe (dot) virouleau (at) imag (dot)
 
 <div id="publications-hal">Loading publications from HAL...</div>
 <script src="{{site.baseurl}}/js/hal.js"></script>
-<script>load_from_hal("philippe-virouleau");</script>
-
+<script>load_from_hal("300262");</script>
 
 </div>
 
@@ -48,7 +47,7 @@ Luckily, my best official solve during a competition has been recorded, you can 
 
 ### Achievements
 
-As of today, I attended more than 60 competitions, broke 17 national records, and earned the following 9 national titles for solving different variants of the Rubik's cube :
+As of today, I attended more than 80 competitions, broke 19 national records, and earned the following 9 national titles for solving different variants of the Rubik's cube :
 
 * 2016 : 3x3 Fewest Moves
 * 2015 : 2x2
@@ -85,8 +84,3 @@ I play(ed) [table soccer](http://www.table-soccer.org/){:target="_blank"} a lot,
 I also like skying, and "playing" chess.
 
 </div>
-
-[1]: /resources/pdf.png
-[2]: https://hal.inria.fr/hal-01081974/file/iwomp2014.pdf
-[3]: /resources/bibtex.png
-[4]: https://hal.inria.fr/hal-01081974/bibtex
