@@ -11,7 +11,7 @@ section: about
 # About me
 
 ![photo](/resources/about_picture.png){:.prof-picture}
-My name is Philippe Virouleau, I graduated from [Ensimag](http://ensimag.grenoble-inp.fr/){:target="blank_"} in 2012, and I'm currently a PhD student at Inria, under the supervision of Thierry Gautier, François Broquedis, Fabrice Rastello, and Raymond Namyst.
+My name is Philippe Virouleau, I graduated from [Ensimag](http://ensimag.grenoble-inp.fr/){:target="blank_"} in 2012, and I'm currently a PhD student at Inria, under the supervision of François Broquedis, Thierry Gautier, et Fabrice Rastello.
 
 I'm kindly hosted by the Inria team CORSE (Compiler Optimization and Runtime SystEms) in Grenoble.
 
@@ -41,17 +41,17 @@ The best way to contact me is by mail : philippe (dot) virouleau (at) imag (dot)
 
 ## Speedcubing
 
-Speedcubing is the activity of solving the Rubik's cube (and other twisty puzzles) as fast as possible. I started cubing in 2008, and it has been my main hobby ever since !
+Speedcubing is the activity of solving twisty puzzles (such as the Rubik's cube, known as the "3x3") as fast as possible. I started cubing in 2008, and it has been my main hobby ever since!
 
-Luckily, my best official solve during a competition has been recorded, you can check it out [here](https://www.youtube.com/watch?v=KHaellMev1M){:target="_blank"} !
+Luckily, my best official solve during a competition has been recorded, you can check it out [here](https://www.youtube.com/watch?v=KHaellMev1M){:target="_blank"}!
 
 ### Achievements
 
-As of today, I attended more than 80 competitions, broke 19 national records, and earned the following 9 national titles for solving different variants of the Rubik's cube :
+As of today, I attended more than 90 competitions in 16 countries, broke 19 national records, and earned the following 9 national titles in various events:
 
 * 2016 : 3x3 Fewest Moves
 * 2015 : 2x2
-* 2014 : 2x2, 5x5, 6x6, 7x7, Rubik's Clock
+* 2014 : 2x2, 5x5, 6x6, 7x7, Clock
 * 2010 : 2x2
 * 2009 : 5x5
 
@@ -59,11 +59,12 @@ You can see my full profile [here](https://www.worldcubeassociation.org/results/
 
 ### World Cube Association
 
-The [World Cube Association](https://www.worldcubeassociation.org/){:target="_blank"} (WCA) governs competitions for all Rubik-like puzzles. Every competition must have a "main judge", called the "Delegate", who makes sure the WCA Regulations are followed at all time during the competition.
+The [World Cube Association](https://www.worldcubeassociation.org/){:target="_blank"} (WCA) governs competitions for twisty puzzles. Every competition must have a "main judge", called the "Delegate", who makes sure the WCA Regulations are followed at all time during the competition.
 
 I became a WCA Delegate back in 2010, and since then my cubing interest has more and more leant towards the organization of competitions and developing Speedcubing in France and in foreign countries.
 
 Since January 2016, I am also a member of the WCA Regulations Committee (WRC), in charge of managing the WCA Regulations applied in official competitions.
+I'm also a member of the WCA software team since 2016.
 
 ### Association Française de Speedcubing (AFS)
 
@@ -75,7 +76,7 @@ I'm its president since 2014.
 
 I started travelling a lot when I started to do international Rubik's cube competitions, such as European and World championships.
 
-I enjoy it a lot, and I always try to discover a country/a city through the eyes of locals (they know the good places for food !), that's why I usually prefer to stay with someone living there instead of booking a hostel (i.e. couchsurf). I've been to more than 20 countries and I still have a lot to discover, especially in Asia, where I only visited a couple of countries.
+I enjoy it a lot, and I always try to discover a country/a city through the eyes of locals (they know the good places for food!), that's why I usually prefer to stay with someone living there instead of booking a hostel (i.e. couchsurf). I still have a lot to discover, especially in Asia, where I only visited a couple of countries.
 
 ## Less time-consuming stuff
 
