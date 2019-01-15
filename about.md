@@ -11,19 +11,22 @@ section: about
 # About me
 
 ![photo](/resources/about_picture.png){:.prof-picture}
-My name is Philippe Virouleau, I graduated from [Ensimag](http://ensimag.grenoble-inp.fr/){:target="blank_"} in 2012, and I'm currently a PhD student at Inria, under the supervision of François Broquedis, Thierry Gautier, et Fabrice Rastello.
+My name is Philippe Virouleau, and I currently have a post-doctoral position at Inria Bordeaux, in the STORM and HiePACS teams.
+I work closely with Emmanuel Agullo, Olivier Aumage, and Olivier Coulaud on the topic of using standard parallel programming model (ie: [OpenMP](http://openmp.org/wp/){:target="_blank"}), to target heterogeneous architectures through the [StarPU](http://starpu.gforge.inria.fr/){:target="_blank"} runtime.
 
-I'm kindly hosted by the Inria team CORSE (Compiler Optimization and Runtime SystEms) in Grenoble.
+I graduated from [Ensimag](http://ensimag.grenoble-inp.fr/){:target="blank_"} in 2012, after which I started working for two years with Thierry Gautier and François Broquedis on an OpenMP source to source compiler project named [Kstar](http://kstar.gforge.inria.fr/){:target="_blank"}.
 
-I've recently started my PhD after working for two years with Thierry and François on an OpenMP source to source compiler project named [Kstar](http://kstar.gforge.inria.fr/){:target="_blank"}. My research focuses on compilers and runtimes, and particularly on how they can interact to get the most performances out of recent NUMA architectures.
+In 2015 I started a PhD under the supervision of François Broquedis, Thierry Gautier, et Fabrice Rastello in the MOAIS (then CORSE) teams (Inria Grenoble).
+During this PhD I started using and developing extensions for the [OpenMP](http://openmp.org/wp/){:target="_blank"} API, which we use to target the runtime developed in the AVALON team, xKaapi.
+I successfully defended my PhD on June 2018, and the manuscript is available on [HAL](https://hal.inria.fr/tel-01908830){:target="_blank"}.
 
-I'm also using and developing extensions for the [OpenMP](http://openmp.org/wp/){:target="_blank"} API, which we use to target the runtime developed in the AVALON team, xKaapi.
+My research interests focus on compilers and runtimes, and particularly on how they can interact to get the most performances out of recent architectures.
 
 Given what my main hobby is (see below), you will find on this website mostly cubing or computer science related stuff, as well as some random stuff (sometimes only available in French...).
 
 ## Contact
 
-The best way to contact me is by mail : philippe (dot) virouleau (at) imag (dot) fr.
+The best way to contact me is by mail : philippe (dot) 44 (at) gmail (dot) com.
 
 </div>
 
@@ -47,7 +50,7 @@ Luckily, my best official solve during a competition has been recorded, you can 
 
 ### Achievements
 
-As of today, I attended more than 90 competitions in 16 countries, broke 19 national records, and earned the following 9 national titles in various events:
+As of today, I attended more than 110 competitions in 21 countries, broke 19 national records, and earned the following 9 national titles in various events:
 
 * 2016 : 3x3 Fewest Moves
 * 2015 : 2x2
@@ -63,14 +66,17 @@ The [World Cube Association](https://www.worldcubeassociation.org/){:target="_bl
 
 I became a WCA Delegate back in 2010, and since then my cubing interest has more and more leant towards the organization of competitions and developing Speedcubing in France and in foreign countries.
 
-Since January 2016, I am also a member of the WCA Regulations Committee (WRC), in charge of managing the WCA Regulations applied in official competitions.
-I'm also a member of the WCA software team since 2016.
+In January 2016 I joined the WCA Regulations Committee (WRC, in charge of managing the WCA Regulations applied in official competitions), and also the WCA Software Team a couple of months later.
+
+Since late 2018 I was nominated as the WCA [Senior Delegate](https://www.worldcubeassociation.org/documents/motions/09.2019.1%20-%20Senior%20Delegates.pdf){:target="_blank"} for Africa.
+
 
 ### Association Française de Speedcubing (AFS)
 
 The AFS is the French organization for Speedcubing, its aim is to develop Speedcubing in France and help organizers to host competition, by providing funding and/or a legal structure to get venues.
 
-I'm its president since 2014.
+I have been its president between 2014 and 2018, and I am currently still actively involved in the association.
+Part of my involvement is to develop and maintain the [AFS Website](https://www.speedcubingfrance.org/){:target="_blank"}.
 
 ## Travelling
 
