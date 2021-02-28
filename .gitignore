@@ -4,3 +4,6 @@
 /.sass-cache
 vendor
 Session.vim
+TODO
+.bundle
+/.jekyll-cache
