@@ -1,6 +1,6 @@
 //Assumes jQuery is already loaded
 function load_from_hal(id) {
-    var baseUrl = "https://api.archives-ouvertes.fr/search?q=contributorId_i:" + id;
+    var baseUrl = "https://api.archives-ouvertes.fr/search?q=authIdHal_s:" + id;
     baseUrl += "&fl=docid,title_s,authFullName_s,conferenceTitle_s,journalTitle_s,fileMain_s,halId_s,producedDateY_i";
     console.log(baseUrl);
     $.getJSON(baseUrl, function(data) {

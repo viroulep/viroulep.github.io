@@ -38,7 +38,7 @@ The best way to contact me is by mail : philippe (dot) 44 (at) gmail (dot) com.
 
 <div id="publications-hal">Loading publications from HAL...</div>
 <script src="{{site.baseurl}}/js/hal.js"></script>
-<script>load_from_hal("300262");</script>
+<script>load_from_hal("philippe-virouleau");</script>
 
 </div>
 
